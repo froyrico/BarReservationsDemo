@@ -29,7 +29,7 @@ This application showcases a complete restaurant reservation ecosystem with thre
 
 ## 🚀 Live Demo
 
-**[View Live Demo]()**
+**[View Live Demo](https://barreservationsdemo.netlify.app/)**
 
 > **⚠️ Important**: This is a portfolio demonstration. No real reservations are processed, no actual payments are charged, and all data is simulated for showcase purposes.
 
@@ -237,8 +237,8 @@ This application demonstrates expertise in:
 
 For questions about this project or potential collaborations:
 
-- **LinkedIn**: [linkedin.com/in/froylanrendon/]
-- **Email**: [froyrico2@gmail.com]
+- **LinkedIn**: linkedin.com/in/froylanrendon/
+- **Email**: froyrico2@gmail.com
 
 ---
 
