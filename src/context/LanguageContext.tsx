@@ -114,7 +114,6 @@ const translations = {
     'admin.logout': 'Logout',
     'admin.monthlyRevenue': 'Monthly Revenue',
     'admin.avgPartySize': 'Avg Party Size',
-    'admin.demoNotice': 'This is a portfolio demonstration. All data is simulated for demo purposes.',
 
     // RP Dashboard
     'rp.dashboard': 'RP Dashboard',
@@ -211,7 +210,7 @@ const translations = {
     'landing.anyPartySizeDesc': 'Desde cenas íntimas hasta celebraciones grupales',
     'landing.premiumExperience': 'Experiencia Premium',
     'landing.premiumExperienceDesc': 'Cócteles y ambiente galardonados',
-    'landing.whatGuestsSay': 'Lo que dicen nuestros huéspedes',
+    'landing.whatGuestsSay': 'Lo que dicen nuestros clientes',
     'landing.review1': 'Experiencia absolutamente fenomenal. El ambiente es inigualable y los cócteles son obras de arte.',
     'landing.review2': 'Perfecto para ocasiones especiales. La atención al detalle del personal es increíble y la atmósfera es mágica.',
     'landing.review3': 'La Hora Dorada Lounge superó todas las expectativas. Una experiencia verdaderamente premium de principio a fin.',
@@ -300,7 +299,7 @@ const translations = {
     'admin.logout': 'Cerrar Sesión',
     'admin.monthlyRevenue': 'Ingresos Mensuales',
     'admin.avgPartySize': 'Tamaño Promedio de Grupo',
-    'admin.demoNotice': 'Esta es una demostración de portafolio. Todos los datos son simulados para fines de demostración.',
+   
 
     // RP Dashboard
     'rp.dashboard': 'Panel RP',
